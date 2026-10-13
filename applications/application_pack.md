@@ -635,7 +635,7 @@ Saya Prama, desainer grafis (Adobe Photoshop, Illustrator, Canva) yang sedang ku
 
 Saya pernah mendesain konten media sosial untuk Lokality, brand mi bebas gluten, yang ikut meningkatkan engagement 40% dan followers 30%. Saya juga mendesain seluruh grafis untuk sebuah seminar mahasiswa, dan bisa membantu editing video pendek dengan CapCut atau DaVinci Resolve bila diperlukan.
 
-Saya juga bisa membuat video pendek dan motion text sederhana, yang menurut lowongan ini menjadi nilai tambah. Latar belakang Data Science saya juga cocok untuk konten riset dan survei.
+Saya juga bisa mengedit video pendek dengan CapCut dan DaVinci Resolve, yang menurut lowongan ini menjadi nilai tambah. Latar belakang Data Science saya juga cocok untuk konten riset dan survei.
 
 Saya bisa bekerja remote 20–30 jam per minggu (GMT+8). Contoh desain dapat saya kirimkan jika dibutuhkan. CV saya terlampir.
 
