@@ -1,17 +1,107 @@
-# Cashless Campus Pitch — Speaker Script, Slides 7–15
+# Cashless Campus Pitch — Speaker Script
 
 Deck: [Cashless Campus Pitch](https://docs.google.com/presentation/d/1lZjQZyhm8B1gWInXOOyFdxf8T-NMr-QcLAQYivbdeJk/edit)
 
-Slides 1–6 (problem and objectives) are presented by the first speaker. This script picks up at slide 7.
+- **Part 1, slides 1–6 (you):** the problem and our objectives, about 4½ minutes.
+- **Part 2, slides 7–15 (second speaker):** the solution, budget and targets, about 8 minutes.
 
-**Running time:** about 8 minutes at a calm pace (roughly 130 words a minute).
 **Stage directions** are in *[brackets]*. Words in **bold** are the ones to land.
 
 ---
 
-## Handover (end of slide 6)
+# Part 1 — Slides 1–6
 
-> **Speaker 1:** "…So those are the three outcomes we're committing to. [Name] will walk you through how we get there."
+## Slide 1 — Title  *(~30 sec)*
+
+*[Stand still, smile, wait for the room to settle before speaking.]*
+
+"Good morning, and thank you for having us. We're Team UCSI, from UCSI University here in Kuala Lumpur.
+
+Today we want to show you how one card, the student ID every student already gets, can take a student **cashless, all the way through**: on campus, at the shops, and on the MRT, **from their very first day**."
+
+---
+
+## Slide 2 — Where we stand  *(~50 sec)*
+
+"Let's start with where we are today.
+
+Cashless is **already the norm** on our campus. Students pay by QR at the canteen, they tap onto the MRT, they rarely carry cash. But the benefits don't reach everyone yet.
+
+*[Point to each column as you go.]*
+
+**International students** arrive ready to pay, but they wait **weeks** before they can pay cashless.
+
+**Every student** carries three cards: a student ID, a bank card and a Touch 'n Go card, each with its own balance.
+
+And for **every payment**, neither the customer nor the merchant can easily prove it really happened.
+
+Let me take these one at a time."
+
+---
+
+## Slide 3 — Problem 1: International students  *(~60 sec)*
+
+"First, and most important: international students.
+
+Imagine you've just landed in KL. You're ready to pay for your first meal. But to open a local bank account, you need your **Student Pass endorsed**, and endorsement alone takes **14 to 21 working days**.
+
+Here's the frustrating part. Your **student ID arrives on day one**, but it **can't pay for anything**. So until your account is ready, you're relying on **cash, on a cashless campus**.
+
+*[Point to the research box.]*
+
+This isn't just us. The University of Nottingham Malaysia tells its new international students to bring **two to three months of expenses** to cover them before a local account is ready. That's a lot of cash to carry around in a new country."
+
+---
+
+## Slide 4 — Problem 2: Too many cards  *(~50 sec)*
+
+"The second problem affects **every** student: too many cards.
+
+A student ID for campus. A bank card to pay. A Touch 'n Go card for the MRT. That's **three cards**, and each has its own balance to top up and keep track of.
+
+Forget one, and you're stuck at a gate, or you can't pay for lunch. And international students have to set up **all three** in their first few weeks.
+
+*[Point to the green note.]*
+
+The good news is that combining them is **already proven**. The MySiswa card puts student ID, debit card and e-wallet on one card for about **550,000** public university students. So the question isn't whether it works. It's why our students don't have it yet."
+
+---
+
+## Slide 5 — Problem 3: Transparency  *(~50 sec)*
+
+"The third problem is trust.
+
+When you pay by QR, you rarely get a receipt. And at a busy stall at lunchtime, the owner can't check every payment notification on their phone.
+
+That gap is exactly what scammers use. Banks and PayNet both name **fake payment receipts** as a key risk for merchants.
+
+*[Pause, then point to the number.]*
+
+And it's growing fast. Malaysia had **223** QR payment scam cases in 2023. In 2025, it was **5,907**. That's more than **25 times** as many in two years."
+
+---
+
+## Slide 6 — Objectives  *(~50 sec)*
+
+"So here's what we commit to within **12 months**.
+
+**One: day-one payments.** New international students pay with their student ID on their **first day**, instead of waiting three weeks or more.
+
+**Two: one card.** **85 out of 100** pilot students use one student ID for campus, payments and the MRT, instead of three.
+
+**Three: verified payments.** **80% fewer** fake or disputed payments at the 20 stalls taking part.
+
+Together, these support wider digital payment use, better financial literacy, and smoother operations across campus."
+
+### Handover
+
+> "So those are the three outcomes we're committing to. [Name] will walk you through how we get there."
+
+*[Turn toward your teammate and step aside.]*
+
+---
+
+# Part 2 — Slides 7–15
 
 ---
 
@@ -189,7 +279,7 @@ Likely questions and short answers. Check anything marked *(confirm)* with the t
 
 ## Delivery tips
 
-- **Hand over cleanly.** Speaker 1 says your name; you start with "Thank you" and go straight into the question on slide 7.
+- **Hand over cleanly.** At the end of slide 6, say your teammate's name and step aside; they start with "Thank you" and go straight into the question on slide 7. Agree in advance who takes which Q&A topics.
 - **Point, don't read.** On slides 8, 10 and 14, gesture to each box or row as you talk about it.
 - **Land the numbers.** Pause briefly after RM 10,000, "day one", and "three, to two, to one".
 - **If you're short on time,** cut slide 10 down to one sentence ("Customer pays, alert sounds, receipt sent, disputes settled from the same record") and summarise slide 13 as "cards, starter credit, readers and a help desk."
