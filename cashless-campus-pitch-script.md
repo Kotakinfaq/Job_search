@@ -1,0 +1,195 @@
+# Cashless Campus Pitch — Speaker Script, Slides 7–15
+
+Deck: [Cashless Campus Pitch](https://docs.google.com/presentation/d/1lZjQZyhm8B1gWInXOOyFdxf8T-NMr-QcLAQYivbdeJk/edit)
+
+Slides 1–6 (problem and objectives) are presented by the first speaker. This script picks up at slide 7.
+
+**Running time:** about 8 minutes at a calm pace (roughly 130 words a minute).
+**Stage directions** are in *[brackets]*. Words in **bold** are the ones to land.
+
+---
+
+## Handover (end of slide 6)
+
+> **Speaker 1:** "…So those are the three outcomes we're committing to. [Name] will walk you through how we get there."
+
+---
+
+## Slide 7 — Initiative 1: All-in-One Student ID  *(~60 sec)*
+
+*[Pause on the title before speaking.]*
+
+"Thank you. So how do we get a new student paying on **day one**, with **one card**?
+
+We start with something every student already gets on day one: their **UCSI student ID**.
+
+First, it's **issued at registration**. Working with a partner bank and Touch 'n Go, the student ID becomes a payment card and a transit card the moment it's printed. No waiting for a Student Pass, no waiting for a bank account.
+
+Second, students can **pay and ride**. They tap at the campus canteen and car parks, at highway tolls, and straight through the MRT gates at Taman Connaught.
+
+And third, there's **one balance**. Food, printing and transport all come out of the same balance. Families can top it up from abroad, and later, once the student has a local account, it links to that.
+
+So the card a student already carries starts doing the job of three."
+
+---
+
+## Slide 8 — Integration framework  *(~70 sec)*
+
+"Here's what that looks like inside the card.
+
+*[Point to the left column.]*
+There are three layers. The **UCSI identity** layer handles what the ID does today: campus access, the library, exams. The **Touch 'n Go chip** covers tolls, parking, MRT and LRT. And the **payment balance** is held by the partner bank, with DuitNow QR in the student app for anywhere that doesn't take cards.
+
+*[Move across the four boxes.]*
+In practice, that means four everyday moments. At the **canteen**, a student taps and the sale settles straight to the stall. In the **car park**, they tap in and out and the fee is deducted. On the road, it works at any **toll** that accepts Touch 'n Go. And getting around, they tap through the **MRT and LRT** gates.
+
+*[Point to the bottom line.]*
+Everyone does what they're already good at. Touch 'n Go brings the chip and its network. The partner bank holds the money and runs the checks. And UCSI issues the card at registration and fits the readers on campus.
+
+**Nobody has to build anything new from scratch.** We're connecting systems that already exist."
+
+---
+
+## Slide 9 — Initiative 2: Verified payments  *(~55 sec)*
+
+"Our second initiative tackles the third problem: proving a payment really happened.
+
+Remember the number from earlier: **5,907 QR scam cases** last year. Our answer has three parts.
+
+**Payment alert devices.** Every stall gets a small speaker that announces each real payment out loud. A fake screenshot doesn't make a sound, so it never passes.
+
+**Digital receipts.** Every QR payment sends the customer a receipt, so if there's ever a refund or a dispute, it's settled in minutes, not arguments.
+
+And **student merchant mentors.** Our business students set merchants up and show them how the alerts and receipts work. The merchants get support, and our students get real-world experience."
+
+---
+
+## Slide 10 — How it works  *(~50 sec)*
+
+"Here's one payment, start to finish.
+
+*[Walk through the steps left to right.]*
+
+**Step one:** the customer scans the stall's DuitNow QR, exactly as they do today. Nothing changes for them.
+
+**Step two:** the moment the money arrives, the device **announces the amount**. The stall owner doesn't need to check their phone.
+
+**Step three:** the customer gets a **digital receipt** on their phone.
+
+**Step four:** if anything goes wrong, both sides look at **the same record**. No more 'I paid', 'no you didn't.'
+
+*[Point to the bottom line.]*
+The partner bank supplies the devices and receipts, UCSI trains ten student mentors, and merchants join **free** during the pilot."
+
+---
+
+## Slide 11 — Requested amount  *(~40 sec)*
+
+*[Let the number sit for a second before speaking.]*
+
+"So what does it take?
+
+We're requesting **RM 10,000** to pilot both initiatives for **12 months**.
+
+That covers **100 international students** in the pilot intake, and **20 merchants** within a kilometre of campus.
+
+And **70%** of that goes to the All-in-One Student ID, because that's where the biggest problem is: students who can't pay at all in their first weeks."
+
+---
+
+## Slide 12 — Where every ringgit goes  *(~60 sec)*
+
+"Here's exactly where every ringgit goes.
+
+**RM 7,000**, or 70%, goes to the All-in-One Student ID. I'll break that down on the next slide.
+
+**RM 1,000** buys payment alert devices: 20 merchants at RM 50 each.
+
+Another **RM 1,000** covers our ten mentors at RM 50 each, plus RM 500 for stall signage and training.
+
+**RM 300** goes to quarterly surveys and reports, so we can show you what's working.
+
+And we've kept **RM 700** as contingency, for price changes and replacement cards.
+
+That's **RM 10,000** in total, and every line is a simple unit cost you can check."
+
+---
+
+## Slide 13 — Initiative 1 breakdown  *(~65 sec)*
+
+"Zooming in on that RM 7,000.
+
+**RM 1,500** for 100 payment-enabled student IDs, at RM 15 each for the chip and printing.
+
+**RM 2,000** in starter credit, RM 20 per student, so they can buy their first meal the day they arrive.
+
+**RM 1,500** for canteen card readers: five counters, RM 25 a month, for 12 months.
+
+**RM 1,000** for an orientation help desk: four helpers over five days, plus printed guides.
+
+**RM 500** to link card printing to registration and test it, and **RM 500** for pre-arrival awareness, a welcome video, emails and social posts, so students know about the card before they land.
+
+*[Point to the notes at the bottom.]*
+Two things we're **not** paying for. Tolls and the MRT cost us **nothing**, because they already accept Touch 'n Go. And for car park readers, we're asking Touch 'n Go to provide them in kind for phase two."
+
+---
+
+## Slide 14 — Targets  *(~70 sec)*
+
+"And here's how you'll know it's working.
+
+*[Initiative 1 rows.]*
+Today, a new international student waits **three weeks or more** before they can pay cashless. By month six, we want that down to **three days**. By month twelve, **day one**.
+
+Pilot students paying with the ID: from zero, to 60, to **85 out of 100**.
+
+Cards a student carries: from **three, to two, to one**.
+
+And canteen counters accepting the card: all **five** live by month six.
+
+*[Initiative 2 rows.]*
+For verified payments: **10 merchants** with alert devices by month six, all **20** by month twelve. Fake or disputed payments at those stalls down **50%** at six months, and **80%** at twelve. And all **ten** student mentors trained by month six.
+
+*[Point to the footnote.]*
+The starting point for disputes isn't a guess. The alert devices log it in month one, so we're measuring against **real data from our own campus**."
+
+---
+
+## Slide 15 — Closing  *(~30 sec)*
+
+*[Slow down. Make eye contact. Don't read this one.]*
+
+"So, in one line:
+
+**A campus where every payment is recorded, verified, and open to everyone, including students who arrived yesterday.**
+
+*[Pause.]*
+
+Thank you. We'd be happy to take your questions."
+
+---
+
+## Q&A prep
+
+Likely questions and short answers. Check anything marked *(confirm)* with the team before the pitch.
+
+| Question | Suggested answer |
+|---|---|
+| Why can't international students just open a bank account? | Banks need the endorsed Student Pass, and endorsement takes 14–21 working days. Our card is a **prepaid** product, so it doesn't need a full account on day one. |
+| Which bank is the partner? | *(confirm)* Name it if agreed. If not: "We're in discussion with banks that already run prepaid student card programmes, like the MySiswa model." |
+| Has this been done before? | Yes. MySiswa already combines student ID, debit card and e-wallet for about 550,000 public university students (MOHE, 2024). We're bringing that model to a private university and adding transit. |
+| Slide 7 says students tap at car parks, but car park readers aren't in the budget. Why? | Car parks are **phase 2**. We're asking Touch 'n Go to supply readers in kind. In the 12-month pilot, the card already works at canteens, tolls and the MRT. |
+| What happens after the 12 months? | *(confirm)* The pilot data on day-one payments and dispute rates is the case for rolling out to every new intake. Running costs (card readers, alert devices) are small enough to move to the university or bank partner. |
+| What if a student loses the card? | It can be blocked and replaced through the partner bank; the contingency budget covers replacement cards in the pilot. |
+| Is RM 20 starter credit enough? | It's enough for the first few meals and an MRT trip. After that, families top up from abroad. |
+| Why only 20 merchants? | They're the stalls within 1 km of campus that students use most, which keeps the pilot measurable. More can join once the alerts and receipts are proven. |
+| How will you measure fake payments? | The alert devices log every payment from month one, which gives us the baseline. Quarterly surveys of merchants and students track disputes against it. |
+
+---
+
+## Delivery tips
+
+- **Hand over cleanly.** Speaker 1 says your name; you start with "Thank you" and go straight into the question on slide 7.
+- **Point, don't read.** On slides 8, 10 and 14, gesture to each box or row as you talk about it.
+- **Land the numbers.** Pause briefly after RM 10,000, "day one", and "three, to two, to one".
+- **If you're short on time,** cut slide 10 down to one sentence ("Customer pays, alert sounds, receipt sent, disputes settled from the same record") and summarise slide 13 as "cards, starter credit, readers and a help desk."
